@@ -8,4 +8,4 @@ Função C - {
 
 F2 - { ... }
 
-Funcao_01
+Funcao_01 { ... }
