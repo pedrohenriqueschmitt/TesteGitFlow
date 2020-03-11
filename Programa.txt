@@ -1,3 +1,7 @@
 Função A
 
 Função B - 
+
+Função C - {
+	...
+}
