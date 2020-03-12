@@ -8,6 +8,7 @@ Função C - {
 
 F2 - { ... }
 
+<<<<<<< HEAD
 
 
 
@@ -19,3 +20,6 @@ Funcao 2 { ... }
 
 Ajuste Release 2
 
+=======
+Funcao_01 { ... }
+>>>>>>> feature/Funcao_01
