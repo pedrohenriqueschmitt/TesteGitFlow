@@ -11,4 +11,11 @@ F2 - { ... }
 
 
 
+<<<<<<< HEAD
 Funcao 3 { ... } v_1
+=======
+Funcao 2 { ... }
+>>>>>>> feature/Funcao_02
+
+Ajuste Release 2
+
